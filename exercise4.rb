@@ -9,4 +9,5 @@ one_to_hundred.each do |num|
     puts "BitMaker"
   else
     puts num
+  end
 end
